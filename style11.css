@@ -1,0 +1,31 @@
+body
+{
+	font-family: arial,serif;
+	font-size: 100%;
+}
+h1
+{
+	font-family: "fantasy" , serif; 
+	color: rgb(255,0,0);
+	font-size: 16px;
+
+}
+h2 h3 
+{
+	font-family: cursive;
+
+}
+h2
+{
+	color: #0000FF;
+	font-size: 14px;
+}
+h3
+{
+	color: #B0B0B0;
+}
+.negrita { font-weight: bold; }
+
+span { font-weight: 900; }
+
+}
